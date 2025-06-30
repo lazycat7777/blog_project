@@ -1,1 +1,3 @@
-# first_project
+# blog 
+
+Пример сайта - блога
